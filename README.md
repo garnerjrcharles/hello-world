@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello!
+
+Im using this website for small and intermediate projects that i think of
+ on a day to day basis.
